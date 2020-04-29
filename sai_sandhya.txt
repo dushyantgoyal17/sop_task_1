@@ -24,6 +24,8 @@
 24. git fetch                                                              //fetching the most recent changes in the repo                                                           
 25.git add sai_sandhya.txt
 26. git commit -m "task1 git"
+27. git rm log.txt
+28. git commit -m "removed log.txt"
 
 Answer: Chicken
 Explanation : As Adam and Eve were the first humans on earth, I guess chicken(parent) would have come first.

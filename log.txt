@@ -26,3 +26,5 @@
 26. git commit -m "task1 git"
 
 Answer: Chicken
+Explanation : As Adam and Eve were the first humans on earth, I guess chicken(parent) would have come first.
+

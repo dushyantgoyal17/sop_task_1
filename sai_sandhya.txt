@@ -1,0 +1,32 @@
+1. git clone https://github.com/saisandhya01/sop_task_1.git spider-task-1   //cloning a forked repo into a local directory
+2. cd spider-task-1                                                         //change the directory 
+3. git branch sai_sandhya                                                   //create a new branch
+4. git checkout sai_sandhya                                                 //move to the specific branch
+5. touch log.txt                                                            //create a new file
+6. git add log.txt                                                          //adding files to the staging area
+7. git commit -m "inventory of all commands"                                //adding files to the repo permanently by commiting
+8. git branch answer
+9. git checkout answer
+10. git add log.txt
+11.git commit -m "add answer"
+12. git checkout sai_sandhya
+13. git branch explanation
+14. git checkout explanation
+15. git add log.txt
+16. git commit -m "add explanation"
+17.git checkout answer
+18. git merge explanation                                                  // merging one branch into another
+19. git add log.txt
+20. git commit -m "resolve merge conflict"
+21. git checkout sai_sandhya
+22. git merge answer
+23. mv log.txt sai_sandhya.txt                                             //renaming a file
+24. git fetch                                                              //fetching the most recent changes in the repo                                                           
+25.git add sai_sandhya.txt
+26. git commit -m "task1 git"
+27. git rm log.txt
+28. git commit -m "removed log.txt"
+
+Answer: Chicken
+Explanation : As Adam and Eve were the first humans on earth, I guess chicken(parent) would have come first.
+

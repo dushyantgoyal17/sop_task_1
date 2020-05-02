@@ -23,3 +23,6 @@ git checkout// to move from the active branch to the so specified branch
 git push origin // push the branch to the remote repository so a pull request can be made
 
 git pull/ to pull and merge changes from the remote repository into my local clone
+
+
+CHICKEN!

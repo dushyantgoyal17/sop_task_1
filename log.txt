@@ -1,0 +1,25 @@
+pwd // print working directory
+
+cd// change directory
+
+touch // add a new file
+
+atom .//to open the file up in atom
+
+git checkout -b // create a new branch and move instantly to it
+
+git add // to add a particular file to the stage area
+
+git status// to view all the files that are currently present in the stage area and need to be pushed
+
+git commit -m "#####" // To commit the changes, move the staged files to the actual repository
+
+git merge// to merge a branch into the current or active branch
+
+mv// to rename a file
+
+git checkout// to move from the active branch to the so specified branch
+
+git push origin // push the branch to the remote repository so a pull request can be made
+
+git pull/ to pull and merge changes from the remote repository into my local clone

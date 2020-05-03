@@ -1,0 +1,24 @@
+git clone https://github.com/dushyantgoyal001/sop_task1.gitspider-task-1   <!--git clone is a Git command line utility which is used to target an existing repository and create a clone, or copy of the target repository. ... -->
+        
+git branch New_feature                                  //ths will create new branch              
+git checkout New_feature                                 //used to switch between branches in a repository   
+touch log.txt                                                         //creating new file log.txt
+
+git add log.txt                                                      
+ 
+                           
+git branch answer                                          //creating another branch
+
+git checkout answer                                           //used to switch between branches in a repository
+git add log.txt
+git commit -m "add answer"                                 //connecting a commit message to your commit
+
+git checkout answer              
+git merge explanation                                                 
+git add log.txt
+git commit -m "resolve merge conflict"                              
+git fetch                                                                                                                        
+git add dushyant_goyal.txt
+
+egg
+So in a nutshell (or an eggshell, if you like), two birds that weren't really chickens created a chicken egg, and hence, we have an answer: The egg came first, and then it hatched a chicken
